@@ -34,12 +34,18 @@ sample_dict = {
 # print(sample_dict)
 
 
-t = x
+# t = x
 
-print("variable t is:", t)
-print("variable x is:", x)
+# print("variable t is:", t)
+# print("variable x is:", x)
 
-t = 15
+# t = 15
 
-print("variable t is:", t)
-print("variable x is:", x)
+# print("variable t is:", t)
+# print("variable x is:", x)
+
+
+
+print("shshksdm \"lspd\" skdskd kldml]")
+print("shshksdm 'lspd' skdskd kldml]")
+print('shshksdm "spd" skdskd kldml]')

@@ -19,7 +19,6 @@
 # print(sample_list)
 
 
-from hmac import new
 
 
 car = ["benz", "bmw", "tesla"]
